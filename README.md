@@ -6,7 +6,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-Live: [Portfolio](aviraj-singh.xyz)
+Live: ([aviraj-singh.xyz](https://aviraj-singh.xyz/))
 
 
 
